@@ -3,3 +3,4 @@
 # Pret-react-app
 
 Clone the repo and go to the project dir and run npm i & npm run start
+Preview: https://6888a82a0c4cf19ecac91bb3--magenta-snickerdoodle-51f7e2.netlify.app/
