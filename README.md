@@ -2,4 +2,4 @@
 
 # Pret-react-app
 
-Clone the repo and go to the project dir and run npm i
+Clone the repo and go to the project dir and run npm i & npm run start
