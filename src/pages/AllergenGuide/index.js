@@ -24,7 +24,7 @@ const AllergenGuide = () => {
           <br />
           It’s all part of
           <a
-            href=""
+            href="/"
             className="text-[#9F1B32] underline hover:no-underline"
           >
             {" "}
@@ -61,7 +61,7 @@ const AllergenGuide = () => {
           in-between, we want to make life easier for customers on special
           diets. It’s why everything we freshly prepare in our shops also comes
           <a
-            href=""
+            href="/"
             className="text-[#9F1B32] underline hover:no-underline"
           >
             {" "}
@@ -142,7 +142,7 @@ const AllergenGuide = () => {
           may be times when it can't answer the questions you may have. If you
           need to know more, please get in touch with our{" "}
           <a
-            href=""
+            href="/"
             className="text-[#9F1B32] underline hover:no-underline"
           >
             Customer Service team

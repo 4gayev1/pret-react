@@ -174,7 +174,7 @@ const Menu = () => {
           <br />
           <br />
           If you need to know more, please get in touch with our{" "}
-          <a href="" className="text-[#9F1B32] underline hover:no-underline">
+          <a href="/" className="text-[#9F1B32] underline hover:no-underline">
             Custom Service
           </a>{" "}
           team who will be happy to help.

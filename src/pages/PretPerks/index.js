@@ -121,11 +121,11 @@ const PretPerks = () => {
 
         <p className="w-[70%] text-center align-center text-[16px] text-[#372F31] font-montserrat">
           Already got an account?
-          <a href="" className="text-[#9F1B32] underline hover:no-underline">
+          <a href="/" className="text-[#9F1B32] underline hover:no-underline">
             Sign in to manage your subscription
           </a>
           <br /> Need help or have more questions?
-          <a href="" className="text-[#9F1B32] underline hover:no-underline">
+          <a href="/" className="text-[#9F1B32] underline hover:no-underline">
             Have a look at our FAQs
           </a>
         </p>
@@ -135,7 +135,7 @@ const PretPerks = () => {
           <br />
           *One star awarded per transaction totalling £1.99 or above <br />
           Read our
-          <a href="" className="text-[#9F1B32] underline hover:no-underline">
+          <a href="/" className="text-[#9F1B32] underline hover:no-underline">
             full terms and conditions.
           </a>
         </p>

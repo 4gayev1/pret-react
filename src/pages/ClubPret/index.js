@@ -151,7 +151,7 @@ const ClubPret = () => {
             Sign in to manage your subscription
           </a>
           <br /> Need help or have more questions?{" "}
-          <a href="" className="text-[#9F1B32] underline hover:no-underline">
+          <a href="/" className="text-[#9F1B32] underline hover:no-underline">
             Have a look at our FAQs
           </a>
         </p>
@@ -164,7 +164,7 @@ const ClubPret = () => {
           subscription fee is £5. Participating shops. Subject to availability,
           not all products sold in all shops – exclusions apply. Cannot be used
           in conjunction with any other offer or discount. See{" "}
-          <a href="" className="text-[#9F1B32] underline hover:no-underline">
+          <a href="/" className="text-[#9F1B32] underline hover:no-underline">
             pret.co.uk/terms.
           </a>
         </p>

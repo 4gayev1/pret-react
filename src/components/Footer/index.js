@@ -44,7 +44,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[rgb(87,83,84)] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     Delivery FAQs
@@ -52,7 +52,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     Contact Us
@@ -60,7 +60,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     Accessibility statement
@@ -68,7 +68,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     UK Shop locations
@@ -76,7 +76,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     Terms & Conditions
@@ -84,7 +84,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     Privacy Policy
@@ -92,7 +92,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     Cookies
@@ -108,7 +108,7 @@ function Footer() {
               <ul className="list-none">
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     Media Centre
@@ -116,7 +116,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     Pret Blog
@@ -124,7 +124,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     UK Tax Strategy
@@ -132,7 +132,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     Franchise Applications
@@ -149,7 +149,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     Pret Reports
@@ -157,7 +157,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     The Pret Foundation
@@ -175,7 +175,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     Modern Stowry Statement
@@ -199,7 +199,7 @@ function Footer() {
                 </li>
                 <li className="mb-[10px]">
                   <a
-                    href=""
+                    href="/"
                     className="text-[#575354] no-underline text-[14px] font-medium hover:text-[#9F1B32] transition-colors duration-200"
                   >
                     Candidate Privacy Notice
