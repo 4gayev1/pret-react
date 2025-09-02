@@ -1,7 +1,7 @@
 <img width="1512" height="821" alt="Screenshot 2025-07-29 at 14 56 32" src="https://github.com/user-attachments/assets/19cd189c-e403-4b44-83af-305293d97b16" />
 
 
-```markdown
+
 # Pret React App
 
 A responsive React application for Pret, designed with simplicity and scalability in mind.
@@ -9,6 +9,7 @@ A responsive React application for Pret, designed with simplicity and scalabilit
 🌐 **Live Preview:**  
 https://magenta-snickerdoodle-51f7e2.netlify.app/
 
+```markdown
 ---
 
 ## 📦 Features
